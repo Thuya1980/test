@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 abcacsdhkja
+=======
+\avbc
+>>>>>>> 09b040f (a)
